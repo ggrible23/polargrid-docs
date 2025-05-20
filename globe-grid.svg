@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-hidden="true" height="100%" viewBox="-1 -1 802 402" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <g data-testid="globe-wireframe">
+    <circle cx="400" cy="400" fill="var(--ds-background-200)" r="400" />
+    <path d="M 400 800 A -400 400 0 0 0 400 0" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M 400 800 A -328.701 400 0 0 0 400 0" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M 400 800 A -235.355 400 0 0 0 400 0" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M 400 800 A -123.097 400 0 0 0 400 0" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M 400 800 A 0 400 0 0 0 400 0" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M 400 0 A 123.097 400 0 0 0 400 800" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M 400 0 A 235.355 400 0 0 0 400 800" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M 400 0 A 328.701 400 0 0 0 400 800" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M 400 0 A 400 400 0 0 0 400 800" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M160,80 h480" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M80,160 h640" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M33.394,240 h733.212" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M8.082,320 h783.837" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M0,400 h800" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M8.082,480 h783.837" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M33.394,560 h733.212" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M80,640 h640" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    <path d="M160,720 h480" fill="none" stroke="url(#globe-gradient)" stroke-width="1" vector-effect="non-scaling-stroke"/>
+  </g>
+  <!-- ... rest of your SVG content goes here ... -->
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" id="globe-gradient" x1="0" x2="0" y1="0" y2="400">
+      <stop offset="0%" stop-color="var(--guide-color)" />
+      <stop offset="100%" stop-color="var(--guide-color)" />
+    </linearGradient>
+  </defs>
+</svg>
